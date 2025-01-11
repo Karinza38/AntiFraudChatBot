@@ -1,4 +1,4 @@
-# AntiFraudChatBot
+ # AntiFraudChatBot
 A simple prompt-chatting AI based on wechaty and fintuned NLP model
 <br>
 一个简单的基于prompt的预训练大模型中文聊天人工智能框架，仅限交流与科普。
