@@ -9,3 +9,4 @@ opengraph_py3
 Quart-CORS
 APScheduler
 SQLAlchemy
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
