@@ -25,3 +25,4 @@ types-requests
 mkdocstrings
 mkdocstrings-python-legacy
 yapf
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
